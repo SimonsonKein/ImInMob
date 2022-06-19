@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "991486083849",
+    "project_id": "meetme-f47ae",
+    "storage_bucket": "meetme-f47ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991486083849:android:7b365d081b5a58fc9989d8",
+        "android_client_info": {
+          "package_name": "com.simon.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991486083849-uqfaothfqldlus1672agrb63d92fqmli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simon.project",
+            "certificate_hash": "2fd2f9a81c227ca0bc74b47c7b26ce60a6950be2"
+          }
+        },
+        {
+          "client_id": "991486083849-nl48j16dmluk4u1aqra6n9bu1ql9gl8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIayvYfdgdQ30a0Q-5uvINKWdIEl1rKTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991486083849-nl48j16dmluk4u1aqra6n9bu1ql9gl8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

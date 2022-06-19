@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1765625" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/background.xml" value="0.16666666666666666" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/bottom_navigation_view_drawable.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/btn_dropdown.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/events_background.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/friends_background.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic__.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic__s.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1765625" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_adb_24.xml" value="0.178125" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.1765625" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1765625" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.1765625" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_map_checked_24.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_notifications_active_24.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_notifications_none_24.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1765625" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_baseline_videogame_asset_24.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.18020833333333333" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_party.xml" value="0.15833333333333333" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/ic_two_people.xml" value="0.1765625" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/nav_map_drawable.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/receiver_message_drawable.xml" value="0.16666666666666666" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/round.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/drawable/sender_message_drawable.xml" value="0.16666666666666666" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/activity_enter_in.xml" value="0.2" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/activity_group_info.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/activity_notification.xml" value="0.12590579710144928" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/activity_start.xml" value="0.10989583333333333" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/adapter_chat_members.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/adapter_chat_message_item.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/adapter_chat_receiver_message_item.xml" value="0.18" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/adapter_chat_sender_message_item.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/adapter_item_chats.xml" value="0.25" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/adapter_item_events.xml" value="0.22" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/adapter_item_find_users.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/adapter_item_friends.xml" value="0.18" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/adapter_item_notification.xml" value="0.25" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/chats_adapter_item.xml" value="0.109375" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/content_notification.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/dropdown_amount_member_spinner_item.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/events_adapter_item.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_chat_list.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_create_event_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_fifth.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_fouth.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_join_event_bottom_sheet.xml" value="0.18" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_main_account.xml" value="0.14" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_main_chats.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_main_find.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_main_friends.xml" value="0.2" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_main_map.xml" value="0.10989583333333333" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_sign_in.xml" value="0.18" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_sign_up.xml" value="0.18" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/fragment_third.xml" value="0.10989583333333333" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/layout/friends_adapter_item.xml" value="0.25" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Dev/AndroidProjects/Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/background.xml" value="0.1695" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/bottom_navigation_view_drawable.xml" value="0.1695" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/btn_dropdown.xml" value="0.1695" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/circle.xml" value="0.2015" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/events_background.xml" value="0.1695" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/friends_background.xml" value="0.2015" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/half_circle.xml" value="0.2015" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic__.xml" value="0.1695" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic__s.xml" value="0.1695" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_artist_color_palette_svgrepo_com.xml" value="0.3275" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1695" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_baseline_adb_24.xml" value="0.1695" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1695" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.177" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_baseline_videogame_asset_24.xml" value="0.3275" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_dumbbell_training_svgrepo_com.xml" value="0.3275" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_icons8_search.xml" value="0.3275" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.177" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2235" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_party.xml" value="0.1695" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_party_blower_birthday_svgrepo_com.xml" value="0.3275" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_running_shoes_8592.xml" value="0.3275" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_send_svg.xml" value="0.1935" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/ic_swimming_pool_svgrepo_com.xml" value="0.3275" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/receiver_message_drawable.xml" value="0.2015" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/round.xml" value="0.124" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/drawable/rounded_background.xml" value="0.177" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/activity_chat.xml" value="0.33" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/activity_group_info.xml" value="0.33" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/activity_main.xml" value="0.1762917933130699" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/activity_notification.xml" value="0.22327898550724637" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/adapter_chat_members.xml" value="0.3625" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/adapter_chat_receiver_message_item.xml" value="0.3625" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/adapter_chat_sender_message_item.xml" value="1.1" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/adapter_item_chats.xml" value="0.5" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/adapter_item_events.xml" value="0.18541666666666667" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/adapter_item_find_users.xml" value="0.3625" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/adapter_item_friends.xml" value="0.9" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/dropdown_amount_member_spinner_item.xml" value="0.25" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/fragment_create_event_bottom_sheet.xml" value="0.18" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/fragment_join_event_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/fragment_main_account.xml" value="0.5742251223491027" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/fragment_main_find.xml" value="0.3625" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/fragment_main_friends.xml" value="0.19375" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/fragment_main_map.xml" value="0.3625" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/layout/fragment_sign_up.xml" value="0.18541666666666667" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.3625" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2235" />
+        <entry key="..\:/Hakaton/Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2235" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

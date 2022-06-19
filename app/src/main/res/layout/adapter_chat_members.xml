@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="5dp"
+    android:padding="10dp"
+    android:gravity="center_vertical"
+    android:backgroundTint="@color/theme_color_primary"
+    android:background="@drawable/friends_background">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/member_iv"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginRight="10dp"
+        android:tint="@color/theme_color_secondary"
+        android:src="@drawable/ic_account_circle_svg"/>
+
+    <TextView
+        android:id="@+id/chat_info_member_nickname_tv"
+        android:text="asd"
+        android:textColor="@color/theme_text_color_secondary"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

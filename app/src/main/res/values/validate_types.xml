@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="validate_username">USERNAME</string>
+    <string name="validate_email">EMAIL</string>
+    <string name="validate_password">PASSWORD</string>
+    <string name="validate_event_title">TITLE</string>
+    <string name="validate_event_description">DESCRIPTION</string>
+    <string name="validate_event_time">TIME</string>
+    <string name="validate_event_date">DATE</string>
+    <string name="validate_event_amount">MEMBERS_AMOUNT</string>
+    <string name="validate_event_category">CATEGORY</string>
+</resources>

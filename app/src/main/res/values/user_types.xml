@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_email">EMAIL</string>
+    <string name="user_username">USERNAME</string>
+    <string name="user_nickname">NICKNAME</string>
+    <string name="user_password">PASSWORD</string>
+</resources>

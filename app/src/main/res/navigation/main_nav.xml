@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/fragment_main_map">
+
+    <fragment
+        android:id="@+id/fragment_main_friends"
+        android:name="com.simon.project.main_fragments.MainFriendsFragment"
+        android:label="fragment_main_friends"
+        tools:layout="@layout/fragment_main_friends" />
+    <fragment
+        android:id="@+id/fragment_main_map"
+        android:name="com.simon.project.main_fragments.MainMapFragment"
+        android:label="fragment_main_map"
+        tools:layout="@layout/fragment_main_map" />
+    <fragment
+        android:id="@+id/fragment_main_chats"
+        android:name="com.simon.project.main_fragments.MainChatsFragment"
+        android:label="fragment_main_chats"
+        tools:layout="@layout/fragment_main_chats" />
+    <fragment
+        android:id="@+id/fragment_main_find"
+        android:name="com.simon.project.main_fragments.MainFindFragment"
+        android:label="fragment_main_find"
+        tools:layout="@layout/fragment_main_find" />
+    <fragment
+        android:id="@+id/fragment_main_account"
+        android:name="com.simon.project.main_fragments.MainAccountFragment"
+        android:label="fragment_main_account"
+        tools:layout="@layout/fragment_main_account" />
+</navigation>

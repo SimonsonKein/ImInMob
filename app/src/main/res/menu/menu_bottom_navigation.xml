@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_main_friends"
+        android:icon="@drawable/ic__friends"
+        android:checked="true"
+        android:title="Friends"/>
+
+    <item
+        android:id="@+id/fragment_main_chats"
+        android:icon="@drawable/ic_chat_svgrepo_com"
+        android:title="Chats"/>
+
+    <item
+        android:icon="@drawable/ic_map_marker_alt_svg"
+        android:id="@+id/fragment_main_map"
+        android:title="Map"/>
+
+    <item
+        android:icon="@drawable/ic_baseline_search_24"
+        android:id="@+id/fragment_main_find"
+        android:title="Find"/>
+
+    <item
+        android:icon="@drawable/ic_account_circle_svg"
+        android:id="@+id/fragment_main_account"
+        android:title="Account"/>
+</menu>

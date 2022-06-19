@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="event_title">TITLE</string>
+    <string name="event_description">DESCRIPTION</string>
+    <string name="event_time">TIME</string>
+    <string name="event_date">DATE</string>
+    <string name="event_amount_members">AMOUNT_MEMBERS</string>
+    <string name="event_category">TITLE</string>
+</resources>
